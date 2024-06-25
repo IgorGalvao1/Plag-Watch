@@ -148,7 +148,7 @@ export default function Component() {
                   fornecedores.
                 </p>
               </div>
-              <div className="w-full max-w-xl">
+              <div className="w-full">
                 <Table>
                   <TableHeader>
                     <TableRow>
