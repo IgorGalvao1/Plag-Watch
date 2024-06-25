@@ -212,7 +212,7 @@ export default function Component() {
                       <TableCell>Não</TableCell>
                       <TableCell>Não</TableCell>
                       <TableCell>Não</TableCell>
-                      <TableCell>Free - $9.99</TableCell>
+                      <TableCell>Grátis - $9.99</TableCell>
                     </TableRow>
                     <TableRow>
                       <TableCell>
